@@ -26,15 +26,15 @@ The project documentation is organized into three sections:
 
 - **Architecture**  
   Describes the environment design, system roles, and end-to-end telemetry and response flow.  
-  `Architecture/`
+  [`1.) Architecture/`](1.%29%20Architecture/)
 
 - **Splunk Alert**  
   Documents log ingestion, detection logic, filtering decisions, and alert forwarding behavior.  
-  `Splunk-Detection/`
+  [`2.)Splunk-Detections/`](2.%29Splunk-Detections/)
 
 - **SSM Runbook**  
   Details the remediation workflow, analyst validation process, approval gates, and containment actions.  
-  `Automation/`
+  [`3.)Automation/`](3.%29Automation/)
 
 Each section is documented using Markdown and supported by diagrams and screenshots where appropriate.
 
