@@ -30,7 +30,7 @@ The project documentation is organized into three sections:
 
 - **Splunk Alert**  
   Documents log ingestion, detection logic, filtering decisions, and alert forwarding behavior.  
-  `Splunk-Detection/`
+  `Splunk-Detections/`
 
 - **SSM Runbook**  
   Details the remediation workflow, analyst validation process, approval gates, and containment actions.  
